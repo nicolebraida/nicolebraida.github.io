@@ -34,17 +34,8 @@ Title of Master Thesis: <em> Web Documentary. Documenting Reality in the Post-me
 <strong> Feb. 2011 - Jul. 2011:</strong> Production and Director Assistant- Dokumentary Film : <em>Giuseppe Penone. I solchi dell' uomo </em> (Videoest, 2011)<br>
 <strong> Nov. 2007 - Mar. 2010:</strong>  Program Direction- Mondayscreen- Student Film retrospective   <br>
 </div>
-<div>
-<h3>EXPERIENCE ABROAD</h3>
 
-<strong> Sept. 2019 - Oct. 2019 </strong> - Research Stay at Concordia University Montréal (CA) <br>
-<strong> Feb. 2013 - Sep. 2013 </strong> - Guest Student at Goethe University Frankfurt <br>
-<strong> Sep. 2012 - Jan. 2013 </strong> - II Semester Abroad (IMACS) at Universit&eacute; de Li&egrave;ge (BE) <br>
-<strong> Mar. 2012 - Jul. 2012 </strong> - I Semester Abroad (IMACS) at Goethe University Frankfurt   <br>
-<strong> Apr. 2010 - Jun. 2010 </strong> - Internship at SELECT ITALY in Chicago (IL, USA)<br>
-<strong> Feb. 2008 - Sep. 2008 </strong> - Erasmus Semester in Vienna (AT) <br>
-</div>
-<div>
+
 <div>
 <h3>TEACHING EXPERIENCE</h3>
 
@@ -84,6 +75,26 @@ Title of Master Thesis: <em> Web Documentary. Documenting Reality in the Post-me
 <li>Braida, N. (2016) "Flucht ins Netz. Ein Vergleich von Refugees (Arte, 2014) und Refugee Republic (Submarine Channel, 2014),"<em> Augenblick, Nr. 65/66 </em> " Die Herstellung der Evidenz. Zum Ph&auml;nomen interaktiver Webdokumentationen"), Sep. 2016, pp. 78-95. </li>
 <li>Braida, N. (2013) <em>Web Documentary. Documenting Reality in the Age of Post-Media</em>  [Master’s Thesis]  Supervisor: L.Quaresima </li>
 </ul>
+</div>
+
+<div>
+<h3>EXPERIENCE ABROAD</h3>
+
+<strong> Sept. 2019 - Oct. 2019 </strong> - Research Stay at Concordia University Montréal (CA) <br>
+<strong> Feb. 2013 - Sep. 2013 </strong> - Guest Student at Goethe University Frankfurt <br>
+<strong> Sep. 2012 - Jan. 2013 </strong> - II Semester Abroad (IMACS) at Universit&eacute; de Li&egrave;ge (BE) <br>
+<strong> Mar. 2012 - Jul. 2012 </strong> - I Semester Abroad (IMACS) at Goethe University Frankfurt   <br>
+<strong> Apr. 2010 - Jun. 2010 </strong> - Internship at SELECT ITALY in Chicago (IL, USA)<br>
+<strong> Feb. 2008 - Sep. 2008 </strong> - Erasmus Semester in Vienna (AT) <br>
+</div>
+
+<div>
+<h3>SOFTWARE/LANGUAGE SKILLS</h3>
+
+<strong> Visualization software skills: </strong> - Tableau Public, DataWrapper, KeplerGL <br>
+<strong> Programming and MarkUp languages: </strong> - HTML5, CSS (basics) <br>
+<strong> Data Analysis/Cleaning skills: </strong> - OpenRefine, Excel, Googlesheets <br>
+<strong> Foreign Languages: </strong> - Italian (native), German (C1/C2), English (C2), Spanish (C1), French(B1/B2)   <br>
 </div>
 </body>
 </html>
