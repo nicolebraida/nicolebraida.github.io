@@ -1,22 +1,6 @@
 # nicolebraida.github.io
 CV nicole braida
 <html>
-<head>
-<style>
-.button {
-  background-color: black;
-  color: white;
-  text-align: center;
-  font-family: monospace;
-  font-size: 16px;
-  cursor: pointer;
-}
-</style>
-<script type="text/javascript">
-function action() {
-}
-</script>
-<title>Nicole Braida, Ph.D.</title>
 <meta name="author" content="nibra">
 <meta name="editor" content="html-editor phase 5">
 </head>
@@ -25,7 +9,7 @@ function action() {
 <h2 style= "text-align: center; color:black; font-family: monospace;">Postdoctoral Fellow and Lecturer at Johannes Gutenberg Universit&auml;t Mainz</h2>
 <div> <img src=![This is an image](https://film-medien.ftmk.uni-mainz.de/files/2018/11/Kolleg_6-214x300.jpg) style="width:200px;height:200px;display:block;margin-right:auto;margin-left:auto;padding:5px;border-style: dotted;"  ></div>
 
-<title>NICOLE BRAIDA M.A. Curriculum Vitae</title>
+
 <meta name="author" content="nibra">
 <meta name="editor" content="html-editor phase 5">
 </head>
