@@ -97,5 +97,5 @@ Title of Master Thesis: <em> Web Documentary. Documenting Reality in the Post-me
 <strong> Foreign Languages: </strong> - Italian (native), German (C1/C2), English (C2), Spanish (C1), French(B1/B2)   <br>
 </div>
 </body>
-</html>
+
 
