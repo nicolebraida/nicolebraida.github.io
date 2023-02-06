@@ -7,7 +7,7 @@ CV nicole braida
 <body text="#000000" bgcolor="lightBlue" link="#FF0000" alink="#FF0000" vlink="#FF0000">
 <h1 style= "text-align: center; color:white; font-family: monospace;">Nicole Braida, Ph.D.</h1>
 <h2 style= "text-align: center; color:black; font-family: monospace;">Postdoctoral Fellow and Lecturer at Johannes Gutenberg Universit&auml;t Mainz</h2>
-<div> <img src="https://film-medien.ftmk.uni-mainz.de/files/2018/11/Kolleg_6-214x300.jpg" style="width:200px;height:300px;display:block;margin-right:auto;margin-left:auto;padding:5px;border-style: dotted;"  ></div>
+<div> <img src="https://film-medien.ftmk.uni-mainz.de/files/2018/11/Kolleg_6-214x300.jpg" style="width:200px;height:250px;display:block;margin-right:auto;margin-left:auto;padding:5px;border-style: dotted;"  ></div>
 
 
 <meta name="author" content="nibra">
