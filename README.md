@@ -3,7 +3,6 @@ CV nicole braida
 <html>
 <meta name="author" content="nibra">
 <meta name="editor" content="html-editor phase 5">
-</head>
 <body text="#000000" bgcolor="lightBlue" link="#FF0000" alink="#FF0000" vlink="#FF0000">
 <h1 style= "text-align: center; color:white; font-family: monospace;">Nicole Braida, Ph.D.</h1>
 <h2 style= "text-align: center; color:black; font-family: monospace;">Postdoctoral Fellow and Lecturer at Johannes Gutenberg Universit&auml;t Mainz</h2>
@@ -12,7 +11,6 @@ CV nicole braida
 
 <meta name="author" content="nibra">
 <meta name="editor" content="html-editor phase 5">
-</head>
 <body style="background-color:lightBlue; font-size: 18px; font-family: monospace;display:block;margin-right:10px;margin-left:10px;">
 <div><p> <strong>NICOLE BRAIDA</strong> born in Monfalcone (GO) in 01.07.1985 , resident in Offenbach (Germany) </p></div>
 <div>
