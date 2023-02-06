@@ -16,23 +16,14 @@ CV nicole braida
 <div>
 <h3>EDUCATION</h3>
 
-<strong>2017</strong> - <em>Doctor of Phylosophy</em> in Media Dramaturgy at Gutenberg-University of Mainz at Institute for Film, Theater and empirical Cultural studies. Candidate at Doctoral School "Configurations of Film" at Goethe University Frankfurt> Topic of Dissertation: Migrating through the Web (interactive non-fiction practices about migration)
+<strong>2017</strong> - <em>Doctor of Philosophy</em> in Media Dramaturgy at Gutenberg-University of Mainz at Institute for Film, Theater and empirical Cultural studies. Candidate at Doctoral School "Configurations of Film" at Goethe University Frankfurt> Topic of Dissertation: Migrating through the Web (interactive non-fiction practices about migration)
 <br><strong>2011-2013</strong> <em> M.A.</em> in Film and Audiovisual Studies (international master program) from University of Udine (IT)<br>
 Title of Master Thesis: <em> Web Documentary. Documenting Reality in the Post-media Age  </em>
 <br><strong>2005-2010</strong> <em>B.A.</em> in Archaeology from University of Padua (IT)
 
 </p></div>
 
-<div>
-<h3>EXPERIENCE ABROAD</h3>
 
-<strong> Feb. 2013 - Sep. 2013 </strong> - Guest Student at Goethe University Frankfurt <br>
-<strong> Sep. 2012 - Jan. 2013 </strong> - II Semester Abroad (IMACS) at Universit&eacute; de Li&egrave;ge (BE) <br>
-<strong> Mar. 2012 - Jul. 2012 </strong> - I Semester Abroad (IMACS) at Goethe University Frankfurt   <br>
-<strong> Apr. 2010 - Jun. 2010 </strong> - Internship at SELECT ITALY in Chicago (IL, USA)<br>
-<strong> Feb. 2008 - Sep. 2008 </strong> - Erasmus Semester in Vienna (AT) <br>
-</div>
-<div>
 <h3>PROFESSIONAL EXPERIENCE</h3>
 
 <strong> Apr. 2021 - ongoing :</strong> Gutenberg-University Mainz, Postdoctoral Research Fellow in Project DiCi-Hub (A Research Hub for Cinema Studies <br>
@@ -43,7 +34,16 @@ Title of Master Thesis: <em> Web Documentary. Documenting Reality in the Post-me
 <strong> Feb. 2011 - Jul. 2011:</strong> Production and Director Assistant- Dokumentary Film : <em>Giuseppe Penone. I solchi dell' uomo </em> (Videoest, 2011)<br>
 <strong> Nov. 2007 - Mar. 2010:</strong>  Program Direction- Mondayscreen- Student Film retrospective   <br>
 </div>
+<div>
+<h3>EXPERIENCE ABROAD</h3>
 
+<strong> Feb. 2013 - Sep. 2013 </strong> - Guest Student at Goethe University Frankfurt <br>
+<strong> Sep. 2012 - Jan. 2013 </strong> - II Semester Abroad (IMACS) at Universit&eacute; de Li&egrave;ge (BE) <br>
+<strong> Mar. 2012 - Jul. 2012 </strong> - I Semester Abroad (IMACS) at Goethe University Frankfurt   <br>
+<strong> Apr. 2010 - Jun. 2010 </strong> - Internship at SELECT ITALY in Chicago (IL, USA)<br>
+<strong> Feb. 2008 - Sep. 2008 </strong> - Erasmus Semester in Vienna (AT) <br>
+</div>
+<div>
 <div>
 <h3>TEACHING EXPERIENCE</h3>
 
@@ -75,6 +75,8 @@ Title of Master Thesis: <em> Web Documentary. Documenting Reality in the Post-me
 <div>
 <h3>PUBLICATIONS (Selection)</h3>
 <ul>
+<li>Braida, N., Campregher-Paiva, I. and Diecke, J. (2021, October 1) "Call for Papers: Forschen, Lehren, Lernen mit digitalen Tools" In <em>Zeitschrift für Medienwissenschaft</em>
+<li>Braida, N. (2019, June 6) "Airport as a Bordering Process" In <em> Social Text Journal </em>  
 <li>Braida, N. (2018) "What if I were a refugee? How game structures frame refugee stories" in: Sai Hensel (Ed.):<em> Migrants and refugees: the new reality of the open societies</em>. Routledge (July 2018) </li>
 <li>Braida, N. (2016) "Flucht ins Netz. Ein Vergleich von Refugees (Arte, 2014) und Refugee Republic (Submarine Channel, 2014),"<em> Augenblick, Nr. 65/66 </em> " Die Herstellung der Evidenz. Zum Ph&auml;nomen interaktiver Webdokumentationen"), Sep. 2016, pp. 78-95. </li>
 </ul>
