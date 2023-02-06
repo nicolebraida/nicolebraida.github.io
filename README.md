@@ -16,7 +16,7 @@ CV nicole braida
 <div>
 <h3>EDUCATION</h3>
 
-<strong>2017</strong> - <em>Doctor of Philosophy</em> in Media Dramaturgy at Gutenberg-University of Mainz at Institute for Film, Theater and empirical Cultural studies. Candidate at Doctoral School "Configurations of Film" at Goethe University Frankfurt> Topic of Dissertation: Migrating through the Web (interactive non-fiction practices about migration)
+<strong>2017</strong> - <em>Doctor of Philosophy</em> in Media Dramaturgy at Gutenberg-University of Mainz at Institute for Film, Theater and empirical Cultural studies. Candidate at Doctoral School "Configurations of Film" at Goethe University Frankfurt> Title of Dissertation: <em>Migrating through the Web. Interactive Practices about Migration</em>
 <br><strong>2011-2013</strong> <em> M.A.</em> in Film and Audiovisual Studies (international master program) from University of Udine (IT)<br>
 Title of Master Thesis: <em> Web Documentary. Documenting Reality in the Post-media Age  </em>
 <br><strong>2005-2010</strong> <em>B.A.</em> in Archaeology from University of Padua (IT)
