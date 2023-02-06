@@ -12,11 +12,11 @@ CV nicole braida
 <meta name="author" content="nibra">
 <meta name="editor" content="html-editor phase 5">
 <body style="background-color:lightBlue; font-size: 18px; font-family: monospace;display:block;margin-right:10px;margin-left:10px;">
-<div><p> <strong>NICOLE BRAIDA</strong> born in Monfalcone (GO) in 01.07.1985 , resident in Offenbach (Germany) </p></div>
+<div><p> <strong>NICOLE BRAIDA</strong> born in Monfalcone (GO) in 01.07.1985 , resident in Wiesbaden (Germany) </p></div>
 <div>
 <h3>EDUCATION</h3>
 
-<strong>2017</strong> - <em>PhD Candidate</em> in Doctoral School "Configurations of Film" at Goethe University Frankfurt and Research Fellow at Gutenberg-University of Mainz at Institute for Film, Theater and empirical Cultural studies > Topic of Dissertation: Migrating through the Web (interactive non-fiction practices about migration)
+<strong>2017</strong> - <em>Doctor of Phylosophy</em> in Media Dramaturgy at Gutenberg-University of Mainz at Institute for Film, Theater and empirical Cultural studies. Candidate at Doctoral School "Configurations of Film" at Goethe University Frankfurt> Topic of Dissertation: Migrating through the Web (interactive non-fiction practices about migration)
 <br><strong>2011-2013</strong> <em> M.A.</em> in Film and Audiovisual Studies (international master program) from University of Udine (IT)<br>
 Title of Master Thesis: <em> Web Documentary. Documenting Reality in the Post-media Age  </em>
 <br><strong>2005-2010</strong> <em>B.A.</em> in Archaeology from University of Padua (IT)
