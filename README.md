@@ -37,6 +37,7 @@ Title of Master Thesis: <em> Web Documentary. Documenting Reality in the Post-me
 <div>
 <h3>EXPERIENCE ABROAD</h3>
 
+<strong> Sept. - Oct. 2019 - Research Stay at Concordia University Montréal (CA)</strong> <br>
 <strong> Feb. 2013 - Sep. 2013 </strong> - Guest Student at Goethe University Frankfurt <br>
 <strong> Sep. 2012 - Jan. 2013 </strong> - II Semester Abroad (IMACS) at Universit&eacute; de Li&egrave;ge (BE) <br>
 <strong> Mar. 2012 - Jul. 2012 </strong> - I Semester Abroad (IMACS) at Goethe University Frankfurt   <br>
