@@ -38,7 +38,7 @@ Title of Master Thesis: <em> Web Documentary. Documenting Reality in the Post-me
 <strong> Apr. 2021 - ongoing :</strong> Gutenberg-University Mainz, Postdoctoral Research Fellow in Project DiCi-Hub (A Research Hub for Cinema Studies <br>
 <strong> Sep. 2017 - Mar. 2021 :</strong> Gutenberg-University Mainz, Research Fellow <br>
 <strong> Jun. 2016 - Jul. 2017 :</strong> Gutenberg-University Mainz, Graduate Assistant (Prof. Dr. Alexandra  Schneider)<br>
-<strong> Feb. 2011 -        now:</strong> Mediacritica.it - Film and media critic                  <br>
+<strong> Feb. 2011 - 2017 :</strong> Mediacritica.it - Film and media critic                  <br>
 <strong> Nov. 2011 - Feb. 2012:</strong> Production Assistant- Documentary film:   <em> </em>PER MANO IGNOTA. Peteano- Una strage dimenticata </em> (Natoli, 2012)<br>
 <strong> Feb. 2011 - Jul. 2011:</strong> Production and Director Assistant- Dokumentary Film : <em>Giuseppe Penone. I solchi dell' uomo </em> (Videoest, 2011)<br>
 <strong> Nov. 2007 - Mar. 2010:</strong>  Program Direction- Mondayscreen- Student Film retrospective   <br>
@@ -47,9 +47,9 @@ Title of Master Thesis: <em> Web Documentary. Documenting Reality in the Post-me
 <div>
 <h3>TEACHING EXPERIENCE</h3>
 
-<strong>WS 2022/23:</strong> Gutenberg-University Mainz - Undergraduate Exercize (co-teaching with Frauke Pirk - Film Data. Digital Approaches to Film Historiography<br>
+<strong>WS 2022/23:</strong> Gutenberg-University Mainz - Undergraduate Exercize (co-teaching with Frauke Pirk) - Film Data. Digital Approaches to Film Historiography<br>
 <strong>WS 2021/22:</strong>  Gutenberg-University Mainz - Undergraduate Exercize - 	Searching for the 16mm Format: Data Histories and Digital Methods<br>
-<strong>WS 2019/2020:</strong>  Gutenberg-University Mainz - Undergraduate Seminar - Interactive Nonfiction Storytelling<br>
+<strong>WS 2019/20:</strong>  Gutenberg-University Mainz - Undergraduate Seminar - Interactive Nonfiction Storytelling<br>
 <strong>Jan. 2018:</strong>  University of Marburg- Guest Lecture - The Forking Paths (non-linearity)<br>
 <strong> May  2017:</strong>  Gutenberg-University Mainz - Workshop - Serious Games   <br>
 <strong>Jun. 2016:</strong>  Goethe-University Frankfurt -Workshop with Jr. Prof. Dr. Sonia Campanini - Old and new media formats in the depiction of refugee camps   <br>
