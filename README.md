@@ -75,12 +75,13 @@ Title of Master Thesis: <em> Web Documentary. Documenting Reality in the Post-me
 <div>
 <h3>PUBLICATIONS (Selection)</h3>
 <ul>
-<li>Braida N., (2022) <em>Migrating through the Web. Interactive Practices about Migration, Flight and Exile.</em> Bielefeld: Transcript.
-<li>Braida,N., Campregher-Paiva, I. and Diecke, J. (2022, February 2) "Was machen wir mit digitalen Tools, und was machen Sie mit uns?" In <em>OMS Blog. Zeitschrift für Medienwissenschaft</em>
-<li>Braida, N., Campregher-Paiva, I. and Diecke, J. (2021, October 1) "Call for Papers: Forschen, Lehren, Lernen mit digitalen Tools" In <em>OMS Blog. Zeitschrift für Medienwissenschaft</em>
-<li>Braida, N. (2019, June 6) "Airport as a Bordering Process" In <em> Social Text Journal </em>  
+<li>Braida N., (2022) <em>Migrating through the Web. Interactive Practices about Migration, Flight and Exile.</em> Bielefeld: Transcript.</li>
+<li>Braida,N., Campregher-Paiva, I. and Diecke, J. (2022, February 2) "Was machen wir mit digitalen Tools, und was machen Sie mit uns?" In <em>OMS Blog. Zeitschrift für Medienwissenschaft</em></li>
+<li>Braida, N., Campregher-Paiva, I. and Diecke, J. (2021, October 1) "Call for Papers: Forschen, Lehren, Lernen mit digitalen Tools" In <em>OMS Blog. Zeitschrift für Medienwissenschaft</em></li>
+<li>Braida, N. (2019, June 6) "Airport as a Bordering Process" In <em> Social Text Journal </em>  </li>
 <li>Braida, N. (2018) "What if I were a refugee? How game structures frame refugee stories" in: Sai Hensel (Ed.):<em> Migrants and refugees: the new reality of the open societies</em>. Routledge (July 2018) </li>
 <li>Braida, N. (2016) "Flucht ins Netz. Ein Vergleich von Refugees (Arte, 2014) und Refugee Republic (Submarine Channel, 2014),"<em> Augenblick, Nr. 65/66 </em> " Die Herstellung der Evidenz. Zum Ph&auml;nomen interaktiver Webdokumentationen"), Sep. 2016, pp. 78-95. </li>
+<li>Braida, N. (2013) <em>Web Documentary. Documenting Reality in the Age of Post-Media</em>  [Master’s Thesis]  Supervisor: L.Quaresima </li>
 </ul>
 </div>
 </body>
