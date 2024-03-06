@@ -16,7 +16,7 @@
   <nav style="background-color: #333; color: white; text-align: center; padding: 20px; width: 20%; float: left; border-style: dashed">
         <h3>Navigation</h3>
         <ul style="list-style-type: none; padding: 0; border-style: dashed">
-            <li style="margin-bottom: 10px;"><a href="#education" style="color: white; text-decoration: none;">Education</a></li>
+            <li style="background-color: #331; margin-bottom: 10px;"><a href="#education" style="color: white; text-decoration: none;">Education</a></li>
             <li style="margin-bottom: 10px;"><a href="#projects" style="color: white; text-decoration: none;">Projects</a></li>
             <li style="margin-bottom: 10px;"><a href="#experience" style="color: white; text-decoration: none;">Experience</a></li>
             <li style="margin-bottom: 10px;"><a href="#teaching" style="color: white; text-decoration: none;">Teaching</a></li>
