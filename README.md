@@ -18,11 +18,11 @@
         <ul style="list-style-type: none; padding: 0; border-style: dashed">
             <li style="background-color: #0077b6; margin-bottom: 10px;"><a href="#education" style="color: white; text-decoration: none;">Education</a></li>
             <li style="background-color: #0077b6; margin-bottom: 10px;"><a href="#projects" style="color: white; text-decoration: none;">Projects</a></li>
-            <li style="background-color: #0077b6; margin-bottom: 10px;"><a href="#experience" style="color: white; text-decoration: none;">Experience</a></li>
+            <li style="background-color: #0077b6; margin-bottom: 10px;"><a href="#professional" style="color: white; text-decoration: none;">Professional Experience</a></li>
             <li style="background-color: #0077b6; margin-bottom: 10px;"><a href="#teaching" style="color: white; text-decoration: none;">Teaching</a></li>
             <li style="background-color: #0077b6; margin-bottom: 10px;"><a href="#publications" style="color: white; text-decoration: none;">Publications</a></li>
-            <li style="background-color: #0077b6; margin-bottom: 10px;"><a href="#experience abroad" style="color: white; text-decoration: none; ">Experience Abroad</a></li>
-            <li style="background-color: #0077b6; margin-bottom: 10px;"><a href="#software/language skills" style="color: white; text-decoration: none; ">Sotware/Language Skills</a></li>
+            <li style="background-color: #0077b6; margin-bottom: 10px;"><a href="#experience-abroad" style="color: white; text-decoration: none; ">Experience Abroad</a></li>
+            <li style="background-color: #0077b6; margin-bottom: 10px;"><a href="#skills" style="color: white; text-decoration: none; ">Software/Language Skills</a></li>
 </ul>
 </nav>
 
@@ -42,7 +42,7 @@
                 <strong>ANALYZING THE DISTRIBUTION OF ITALIAN FILMS ON SUPER8 IN GERMANY IN 70s-80s:</strong> <a href="https://nicolebraida.github.io/Italo_film_Analysis" style="color: #ff7f0e; text-decoration: none;">LINK</a></p>
         </section>
 
-<section id="experience" style="margin-bottom: 20px; padding: 10px; border-style: dashed">
+<section id="professional" style="margin-bottom: 20px; padding: 10px; border-style: dashed">
             <h3 style="color: #005f81;">PROFESSIONAL EXPERIENCE</h3>
             <p><strong> Apr. 2021 - ongoing :</strong> Gutenberg-University Mainz, Postdoctoral Research Fellow in Project DiCi-Hub (A Research Hub for Cinema Studies <br>
                 <strong> Sep. 2017 - Mar. 2021 :</strong> Gutenberg-University Mainz, Research Fellow <br>
@@ -87,7 +87,7 @@
             </ul>
     </section>
 
-  <section id="abroad" style="margin-bottom: 20px; padding: 10px; border-style: dashed">
+  <section id="publications" style="margin-bottom: 20px; padding: 10px; border-style: dashed">
             <h3 style="color: #005f81;">PUBLICATIONS</h3>
             <ul>
 <li>Braida N., (2022) <em>Migrating through the Web. Interactive Practices about Migration, Flight and Exile.</em> Bielefeld: Transcript.</li>
@@ -100,7 +100,7 @@
 
   </section>
   
-<section id="abroad" style="margin-bottom: 20px; padding: 10px; border-style: dashed">
+<section id="experience-abroad" style="margin-bottom: 20px; padding: 10px; border-style: dashed">
             <h3 style="color: #005f81;">EXPERIENCE ABROAD</h3> 
 <p><strong> Sept. 2019 - Oct. 2019 </strong> - Research Stay at Concordia University Montréal (CA) <br>
 <strong> Feb. 2013 - Sep. 2013 </strong> - Guest Student at Goethe University Frankfurt <br>
@@ -110,7 +110,7 @@
 <strong> Feb. 2008 - Sep. 2008 </strong> - Erasmus Semester in Vienna (AT) <br></p>
 </section>
 
-<section id="abroad" style="margin-bottom: 20px; padding: 10px; border-style: dashed">
+<section id="skills" style="margin-bottom: 20px; padding: 10px; border-style: dashed">
             <h3 style="color: #005f81;">SOFTWARE/LANGUAGE SKILLS</h3>
 
 <p><strong> Visualization software skills: </strong> - Tableau Public, DataWrapper, KeplerGL <br>
