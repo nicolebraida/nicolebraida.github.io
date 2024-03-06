@@ -13,16 +13,16 @@
         <img src="https://film-medien.ftmk.uni-mainz.de/files/2018/11/Kolleg_6-214x300.jpg" style="width:200px;height:250px;display:block;margin-right:auto;margin-left:auto;padding:5px;border-style: dotted;">
 </header>
 
-  <nav style="background-color: #333; color: white; text-align: center; padding: 20px; width: 20%; float: left; border-style: dashed">
+  <nav style="background-color: #03045e; color: white; text-align: center; padding: 20px; width: 20%; float: left; border-style: dashed">
         <h3>Navigation</h3>
         <ul style="list-style-type: none; padding: 0; border-style: dashed">
-            <li style="background-color: #331; margin-bottom: 10px;"><a href="#education" style="color: white; text-decoration: none;">Education</a></li>
-            <li style="margin-bottom: 10px;"><a href="#projects" style="color: white; text-decoration: none;">Projects</a></li>
-            <li style="margin-bottom: 10px;"><a href="#experience" style="color: white; text-decoration: none;">Experience</a></li>
-            <li style="margin-bottom: 10px;"><a href="#teaching" style="color: white; text-decoration: none;">Teaching</a></li>
-            <li style="margin-bottom: 10px;"><a href="#publications" style="color: white; text-decoration: none;">Publications</a></li>
-            <li style="margin-bottom: 10px;"><a href="#experience abroad" style="color: white; text-decoration: none; ">Experience Abroad</a></li>
-            <li style="margin-bottom: 10px;"><a href="#software/language skills" style="color: white; text-decoration: none; ">Sotware/Language Skills</a></li>
+            <li style="background-color: #0077b6; margin-bottom: 10px;"><a href="#education" style="color: white; text-decoration: none;">Education</a></li>
+            <li style="background-color: #0077b6; margin-bottom: 10px;"><a href="#projects" style="color: white; text-decoration: none;">Projects</a></li>
+            <li style="background-color: #0077b6; margin-bottom: 10px;"><a href="#experience" style="color: white; text-decoration: none;">Experience</a></li>
+            <li style="background-color: #0077b6; margin-bottom: 10px;"><a href="#teaching" style="color: white; text-decoration: none;">Teaching</a></li>
+            <li style="background-color: #0077b6; margin-bottom: 10px;"><a href="#publications" style="color: white; text-decoration: none;">Publications</a></li>
+            <li style="background-color: #0077b6; margin-bottom: 10px;"><a href="#experience abroad" style="color: white; text-decoration: none; ">Experience Abroad</a></li>
+            <li style="background-color: #0077b6; margin-bottom: 10px;"><a href="#software/language skills" style="color: white; text-decoration: none; ">Sotware/Language Skills</a></li>
 </ul>
 </nav>
 
