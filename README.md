@@ -1,6 +1,5 @@
 # nicolebraida.github.io
 
-<!DOCTYPE html>
 <html lang="en">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -17,17 +16,17 @@
   <nav style="background-color: #333; color: white; text-align: center; padding: 20px; width: 20%; float: left; border-style: dashed">
         <h3>Navigation</h3>
         <ul style="list-style-type: none; padding: 0; border-style: dashed">
-            <li style="margin-bottom: 10px;"><a href="#education" style="color: white; text-decoration: none; border-style: dashed">Education</a></li>
+            <li style="margin-bottom: 10px;"><a href="#education" style="color: white; text-decoration: none;">Education</a></li>
             <li style="margin-bottom: 10px;"><a href="#projects" style="color: white; text-decoration: none;">Projects</a></li>
-            <li style="margin-bottom: 10px;"><a href="#experience" style="color: white; text-decoration: none; border-style: dashed">Experience</a></li>
-            <li style="margin-bottom: 10px;"><a href="#teaching" style="color: white; text-decoration: none; border-style: dashed">Teaching</a></li>
-            <li style="margin-bottom: 10px;"><a href="#publications" style="color: white; text-decoration: none; border-style: dashed">Publications</a></li>
-            <li style="margin-bottom: 10px;"><a href="#abroad" style="color: white; text-decoration: none; border-style: dashed">Experience Abroad</a></li>
-            <li style="margin-bottom: 10px;"><a href="#skills" style="color: white; text-decoration: none; border-style: dashed">Skills</a></li>
+            <li style="margin-bottom: 10px;"><a href="#experience" style="color: white; text-decoration: none;">Experience</a></li>
+            <li style="margin-bottom: 10px;"><a href="#teaching" style="color: white; text-decoration: none;">Teaching</a></li>
+            <li style="margin-bottom: 10px;"><a href="#publications" style="color: white; text-decoration: none;">Publications</a></li>
+            <li style="margin-bottom: 10px;"><a href="#abroad" style="color: white; text-decoration: none; ">Experience Abroad</a></li>
+            <li style="margin-bottom: 10px;"><a href="#skills" style="color: white; text-decoration: none; ">Skills</a></li>
         </ul>
     </nav>
 
-   <main style="padding: 20px; width: 80%; float: left;">
+   <main style="padding: 20px; width: 80%; float: center; padding: 20px">
 
    <section id="education" style="margin-bottom: 20px; border-style: dashed">
             <h3 style="color: #005f81;">EDUCATION</h3>
