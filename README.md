@@ -23,7 +23,14 @@ Title of Master Thesis: <em> Web Documentary. Documenting Reality in the Post-me
 
 </p></div>
 
+<div>
+<h3>PYTHON DATA ANALYSIS PROJECTS ON SUPER8 (Selection)</h3>
+ 
+<strong>ANALYZING A DATASET FROM THE GERMAN DISTRIBUTOR COMPANY UFA:</strong> <a href="https://nicolebraida.github.io/Analysing%20and%20Visualizing%20UFA%20Film%20Dataset.html">LINK</a> <br>
 
+<strong>ANALYZING THE DISTRIBUTION OF ITALIAN FILMS ON SUPER8 IN GERMANY IN 70s-80s:</strong> <a href="https://nicolebraida.github.io/Analysing%20and%20Visualizing%20UFA%20Film%20Dataset.html](https://nicolebraida.github.io/Italo_film_Analysis">LINK</a> <br>
+
+ 
 <h3>PROFESSIONAL EXPERIENCE</h3>
 
 <strong> Apr. 2021 - ongoing :</strong> Gutenberg-University Mainz, Postdoctoral Research Fellow in Project DiCi-Hub (A Research Hub for Cinema Studies <br>
@@ -39,6 +46,9 @@ Title of Master Thesis: <em> Web Documentary. Documenting Reality in the Post-me
 <div>
 <h3>TEACHING EXPERIENCE</h3>
 
+<strong>SS 2023/24:</strong> Università degli Studi di Udine - Undergraduate Seminar - Data Visualization<br>
+<strong>WS 2023/24:</strong> Gutenberg-University Mainz - Undergraduate Exercize (co-teaching with Frauke Pirk) - Exploring Super8: Data Analysis and Data Visalization<br>
+<strong>SS 2022/23:</strong> Università degli Studi di Udine - Undergraduate Seminar - Data Visualization<br>
 <strong>WS 2022/23:</strong> Gutenberg-University Mainz - Undergraduate Exercize (co-teaching with Frauke Pirk) - Film Data. Digital Approaches to Film Historiography<br>
 <strong>WS 2021/22:</strong>  Gutenberg-University Mainz - Undergraduate Exercize - 	Searching for the 16mm Format: Data Histories and Digital Methods<br>
 <strong>WS 2019/20:</strong>  Gutenberg-University Mainz - Undergraduate Seminar - Interactive Nonfiction Storytelling<br>
