@@ -28,7 +28,7 @@
 
    <main style="padding: 20px; width: 80%; float: left; padding: 20px">
 
-   <section id="education" style="margin-bottom: 20px; border-style: dashed">
+   <section id="education" style="margin-bottom: 20px; padding:10px; border-style: dashed">
             <h3 style="color: #005f81;">EDUCATION</h3>
             <p><strong>2017</strong> - <em>Doctor of Philosophy</em> in Media Dramaturgy at Gutenberg-University of Mainz at Institute for Film, Theater and empirical Cultural studies. Candidate at Doctoral School "Configurations of Film" at Goethe University Frankfurt> Title of Dissertation: <em>Migrating through the Web. Interactive Practices about Migration</em></p>
             <p><strong>2011-2013</strong> <em> M.A.</em> in Film and Audiovisual Studies (international master program) from University of Udine (IT)<br>
