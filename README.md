@@ -28,7 +28,7 @@ Title of Master Thesis: <em> Web Documentary. Documenting Reality in the Post-me
  
 <strong>ANALYZING A DATASET FROM THE GERMAN DISTRIBUTOR COMPANY UFA:</strong> <a href="https://nicolebraida.github.io/Analysing%20and%20Visualizing%20UFA%20Film%20Dataset.html">LINK</a> <br>
 
-<strong>ANALYZING THE DISTRIBUTION OF ITALIAN FILMS ON SUPER8 IN GERMANY IN 70s-80s:</strong> <a href="https://nicolebraida.github.io/Analysing%20and%20Visualizing%20UFA%20Film%20Dataset.html](https://nicolebraida.github.io/Italo_film_Analysis">LINK</a> <br>
+<strong>ANALYZING THE DISTRIBUTION OF ITALIAN FILMS ON SUPER8 IN GERMANY IN 70s-80s:</strong> <a href="https://nicolebraida.github.io/Italo_film_Analysis">LINK</a> <br>
 
  
 <h3>PROFESSIONAL EXPERIENCE</h3>
