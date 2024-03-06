@@ -1,13 +1,10 @@
 # nicolebraida.github.io
-CV nicole braida
-<html>
-<html lang="en">
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-</head>
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 
 <body style="font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: lightblue; color: black;">
 
@@ -127,9 +124,7 @@ CV nicole braida
         <p>&copy; 2024 Nicole Braida</p>
     </footer>
 
-</body>
 
-</html>
 
 
 
