@@ -26,9 +26,9 @@
         </ul>
     </nav>
 
-   <main style="padding: 20px; width: 80%; float: left; padding: 20px">
+<main style="padding: 20px; width: 80%; float: left; padding: 20px">
 
-   <section id="education" style="margin-bottom: 20px; padding:10px; border-style: dashed">
+<section id="education" style="margin-bottom: 20px; padding:10px; border-style: dashed">
             <h3 style="color: #005f81;">EDUCATION</h3>
             <p><strong>2017</strong> - <em>Doctor of Philosophy</em> in Media Dramaturgy at Gutenberg-University of Mainz at Institute for Film, Theater and empirical Cultural studies. Candidate at Doctoral School "Configurations of Film" at Goethe University Frankfurt> Title of Dissertation: <em>Migrating through the Web. Interactive Practices about Migration</em></p>
             <p><strong>2011-2013</strong> <em> M.A.</em> in Film and Audiovisual Studies (international master program) from University of Udine (IT)<br>
@@ -36,13 +36,13 @@
             <p><strong>2005-2010</strong> <em>B.A.</em> in Archaeology from University of Padua (IT)</p>
         </section>
 
-   <section id="projects" style="margin-bottom: 20px; padding: 10px; border-style: dashed">
+<section id="projects" style="margin-bottom: 20px; padding: 10px; border-style: dashed">
             <h3 style="color: #005f81;">PYTHON DATA ANALYSIS PROJECTS ON SUPER8 (Selection)</h3>
             <p><strong>ANALYZING A DATASET FROM THE GERMAN DISTRIBUTOR COMPANY UFA:</strong> <a href="https://nicolebraida.github.io/Analysing%20and%20Visualizing%20UFA%20Film%20Dataset.html" style="color: #ff7f0e; text-decoration: none;">LINK</a><br>
                 <strong>ANALYZING THE DISTRIBUTION OF ITALIAN FILMS ON SUPER8 IN GERMANY IN 70s-80s:</strong> <a href="https://nicolebraida.github.io/Italo_film_Analysis" style="color: #ff7f0e; text-decoration: none;">LINK</a></p>
         </section>
 
-   <section id="experience" style="margin-bottom: 20px; padding: 10px; border-style: dashed">
+<section id="experience" style="margin-bottom: 20px; padding: 10px; border-style: dashed">
             <h3 style="color: #005f81;">PROFESSIONAL EXPERIENCE</h3>
             <p><strong> Apr. 2021 - ongoing :</strong> Gutenberg-University Mainz, Postdoctoral Research Fellow in Project DiCi-Hub (A Research Hub for Cinema Studies <br>
                 <strong> Sep. 2017 - Mar. 2021 :</strong> Gutenberg-University Mainz, Research Fellow <br>
@@ -54,7 +54,7 @@
             </p>
         </section>
         
-<section id="teaching" style="margin-bottom: 20px; padding: 10px; border-style: dashed">
+ <section id="teaching" style="margin-bottom: 20px; padding: 10px; border-style: dashed">
             <h3 style="color: #005f81;">TEACHING EXPERIENCE</h3>
             <p><strong>SS 2023/24:</strong> Università degli Studi di Udine - Undergraduate Seminar - Data Visualization<br>
             <strong>SS 2023/24:</strong> Università degli Studi di Udine - Undergraduate Seminar - Data Visualization<br>
@@ -72,9 +72,9 @@
   <strong>Sep. 2015:</strong>  Werkleitz  Akademie - Halle (Saale)- Assistant to Prof. Dr. Alexandra Schneider - Workshop about Non-linear Dramaturgy     <br>    
             </p>
         
-</section>
+   </section>
 
- <section id="publications" style="margin-bottom: 20px; padding: 10px; border-style: dashed">
+  <section id="publications" style="margin-bottom: 20px; padding: 10px; border-style: dashed">
             <h3 style="color: #005f81;">CONFERENCE TALKS (Selection)</h3>
             <ul>
              <li><strong>"Call for (Inter)Action: The Construction of Solidarity in Interactive Practices"</strong> Digital Cultures Conference 2018 - L&uuml;neburg</li>
@@ -85,9 +85,9 @@
 <li><strong>"Displaced Bodies. Interactive non-fiction practices about migration"</strong> MAGIS Springschool 2016 in Gorizia  </li>
 <li><strong>"Experiencing the exile: understanding migration through interactive media practices"</strong>(POSTER) I-DOCS Conference 2016 in Bristol  </li>
             </ul>
-        </section>
+    </section>
 
-   <section id="abroad" style="margin-bottom: 20px; padding: 10px; border-style: dashed">
+  <section id="abroad" style="margin-bottom: 20px; padding: 10px; border-style: dashed">
             <h3 style="color: #005f81;">PUBLICATIONS</h3>
             <ul>
 <li>Braida N., (2022) <em>Migrating through the Web. Interactive Practices about Migration, Flight and Exile.</em> Bielefeld: Transcript.</li>
@@ -98,7 +98,8 @@
 <li>Braida, N. (2016) "Flucht ins Netz. Ein Vergleich von Refugees (Arte, 2014) und Refugee Republic (Submarine Channel, 2014),"<em> Augenblick, Nr. 65/66 </em> " Die Herstellung der Evidenz. Zum Ph&auml;nomen interaktiver Webdokumentationen"), Sep. 2016, pp. 78-95. </li>
 <li>Braida, N. (2013) <em>Web Documentary. Documenting Reality in the Age of Post-Media</em>  [Master’s Thesis]  Supervisor: L.Quaresima </li></ul>
 
-
+  </section>
+  
 <section id="abroad" style="margin-bottom: 20px; padding: 10px; border-style: dashed">
             <h3 style="color: #005f81;">EXPERIENCE ABROAD</h3> 
 <p><strong> Sept. 2019 - Oct. 2019 </strong> - Research Stay at Concordia University Montréal (CA) <br>
