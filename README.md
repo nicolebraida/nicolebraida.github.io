@@ -58,20 +58,21 @@
             <h3 style="color: #005f81;">TEACHING EXPERIENCE</h3>
             <p><strong>SS 2023/24:</strong> Università degli Studi di Udine - Undergraduate Seminar - Data Visualization<br>
             <strong>SS 2023/24:</strong> Università degli Studi di Udine - Undergraduate Seminar - Data Visualization<br>
-<strong>WS 2023/24:</strong> Gutenberg-University Mainz - Undergraduate Exercize (co-teaching with Frauke Pirk) - Exploring Super8: Data Analysis and Data Visalization<br>
-<strong>SS 2022/23:</strong> Università degli Studi di Udine - Undergraduate Seminar - Data Visualization<br>
-<strong>WS 2022/23:</strong> Gutenberg-University Mainz - Undergraduate Exercize (co-teaching with Frauke Pirk) - Film Data. Digital Approaches to Film Historiography<br>
-<strong>WS 2021/22:</strong>  Gutenberg-University Mainz - Undergraduate Exercize - 	Searching for the 16mm Format: Data Histories and Digital Methods<br>
-<strong>WS 2019/20:</strong>  Gutenberg-University Mainz - Undergraduate Seminar - Interactive Nonfiction Storytelling<br>
-<strong>Jan. 2018:</strong>  University of Marburg- Guest Lecture - The Forking Paths (non-linearity)<br>
-<strong> May  2017:</strong>  Gutenberg-University Mainz - Workshop - Serious Games   <br>
-<strong>Jun. 2016:</strong>  Goethe-University Frankfurt -Workshop with Jr. Prof. Dr. Sonia Campanini - Old and new media formats in the depiction of refugee camps   <br>
-<strong> May  2016:</strong>  Gutenberg-University Mainz_ Workshop - Create a computer game with Sploder!                  <br>
-<strong>Dec. 2015:</strong>  Gutenberg-University Mainz - Guest Lecture - Nanook on the Holodeck. Interactive documentary practices   <br>
-<strong>Dec. 2015:</strong>  University of Udine - Guest Lecture  - Documentary in the age of Internet                             <br>
-<strong>Sep. 2015:</strong>  Werkleitz  Akademie - Halle (Saale)- Assistant to Prof. Dr. Alexandra Schneider - Workshop about Non-linear Dramaturgy     <br>    
+  <strong>WS 2023/24:</strong> Gutenberg-University Mainz - Undergraduate Exercize (co-teaching with Frauke Pirk) - Exploring Super8: Data Analysis and Data Visalization<br>
+  <strong>SS 2022/23:</strong> Università degli Studi di Udine - Undergraduate Seminar - Data Visualization<br>
+  <strong>WS 2022/23:</strong> Gutenberg-University Mainz - Undergraduate Exercize (co-teaching with Frauke Pirk) - Film Data. Digital Approaches to Film Historiography<br>
+  <strong>WS 2021/22:</strong>  Gutenberg-University Mainz - Undergraduate Exercize - 	Searching for the 16mm Format: Data Histories and Digital Methods<br>
+  <strong>WS 2019/20:</strong>  Gutenberg-University Mainz - Undergraduate Seminar - Interactive Nonfiction Storytelling<br>
+  <strong>Jan. 2018:</strong>  University of Marburg- Guest Lecture - The Forking Paths (non-linearity)<br>
+  <strong> May  2017:</strong>  Gutenberg-University Mainz - Workshop - Serious Games   <br>
+  <strong>Jun. 2016:</strong>  Goethe-University Frankfurt -Workshop with Jr. Prof. Dr. Sonia Campanini - Old and new media formats in the depiction of refugee camps   <br>
+  <strong> May  2016:</strong>  Gutenberg-University Mainz_ Workshop - Create a computer game with Sploder!                   <br>
+  <strong>Dec. 2015:</strong>  Gutenberg-University Mainz - Guest Lecture - Nanook on the Holodeck. Interactive documentary practices   <br>
+  <strong>Dec. 2015:</strong>  University of Udine - Guest Lecture  - Documentary in the age of Internet                             <br>
+  <strong>Sep. 2015:</strong>  Werkleitz  Akademie - Halle (Saale)- Assistant to Prof. Dr. Alexandra Schneider - Workshop about Non-linear Dramaturgy     <br>    
             </p>
-  </section>
+        
+</section>
 
  <section id="publications" style="margin-bottom: 20px; padding: 10px; border-style: dashed">
             <h3 style="color: #005f81;">CONFERENCE TALKS (Selection)</h3>
@@ -100,24 +101,24 @@
 
 <section id="abroad" style="margin-bottom: 20px; padding: 10px; border-style: dashed">
             <h3 style="color: #005f81;">EXPERIENCE ABROAD</h3> 
-<strong> Sept. 2019 - Oct. 2019 </strong> - Research Stay at Concordia University Montréal (CA) <br>
+<p><strong> Sept. 2019 - Oct. 2019 </strong> - Research Stay at Concordia University Montréal (CA) <br>
 <strong> Feb. 2013 - Sep. 2013 </strong> - Guest Student at Goethe University Frankfurt <br>
 <strong> Sep. 2012 - Jan. 2013 </strong> - II Semester Abroad (IMACS) at Universit&eacute; de Li&egrave;ge (BE) <br>
 <strong> Mar. 2012 - Jul. 2012 </strong> - I Semester Abroad (IMACS) at Goethe University Frankfurt   <br>
 <strong> Apr. 2010 - Jun. 2010 </strong> - Internship at SELECT ITALY in Chicago (IL, USA)<br>
-<strong> Feb. 2008 - Sep. 2008 </strong> - Erasmus Semester in Vienna (AT) <br>
+<strong> Feb. 2008 - Sep. 2008 </strong> - Erasmus Semester in Vienna (AT) <br></p>
 </section>
 
 <section id="abroad" style="margin-bottom: 20px; padding: 10px; border-style: dashed">
             <h3 style="color: #005f81;">SOFTWARE/LANGUAGE SKILLS</h3>
 
-<strong> Visualization software skills: </strong> - Tableau Public, DataWrapper, KeplerGL <br>
+<p><strong> Visualization software skills: </strong> - Tableau Public, DataWrapper, KeplerGL <br>
 <strong> Programming and MarkUp languages: </strong> - HTML5, CSS (basics) <br>
 <strong> Data Analysis/Cleaning skills: </strong> - OpenRefine, Excel, Googlesheets <br>
 <strong> Foreign Languages: </strong> - Italian (native), German (C1/C2), English (C2), Spanish (C1), French(B1/B2)   <br>
-
+</p>
 </section>
-</main>
+
 
    <footer style="background-color: #005f81; color: white; text-align: center; padding: 20px; clear: both; border-style: dashed">
         <p>&copy; 2024 Nicole Braida</p>
