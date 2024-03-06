@@ -96,7 +96,7 @@
 <li>Braida, N. (2018) "What if I were a refugee? How game structures frame refugee stories" in: Sai Hensel (Ed.):<em> Migrants and refugees: the new reality of the open societies</em>. Routledge (July 2018) </li>
 <li>Braida, N. (2016) "Flucht ins Netz. Ein Vergleich von Refugees (Arte, 2014) und Refugee Republic (Submarine Channel, 2014),"<em> Augenblick, Nr. 65/66 </em> " Die Herstellung der Evidenz. Zum Ph&auml;nomen interaktiver Webdokumentationen"), Sep. 2016, pp. 78-95. </li>
 <li>Braida, N. (2013) <em>Web Documentary. Documenting Reality in the Age of Post-Media</em>  [Master’s Thesis]  Supervisor: L.Quaresima </li></ul>
-</main>
+
 
 <section id="abroad" style="margin-bottom: 20px; padding: 10px; border-style: dashed">
             <h3 style="color: #005f81;">EXPERIENCE ABROAD</h3> 
@@ -117,7 +117,7 @@
 <strong> Foreign Languages: </strong> - Italian (native), German (C1/C2), English (C2), Spanish (C1), French(B1/B2)   <br>
 
 </section>
-
+</main>
 
    <footer style="background-color: #005f81; color: white; text-align: center; padding: 20px; clear: both; border-style: dashed">
         <p>&copy; 2024 Nicole Braida</p>
