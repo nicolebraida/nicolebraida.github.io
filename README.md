@@ -23,8 +23,8 @@
             <li style="margin-bottom: 10px;"><a href="#publications" style="color: white; text-decoration: none;">Publications</a></li>
             <li style="margin-bottom: 10px;"><a href="#experience abroad" style="color: white; text-decoration: none; ">Experience Abroad</a></li>
             <li style="margin-bottom: 10px;"><a href="#software/language skills" style="color: white; text-decoration: none; ">Sotware/Language Skills</a></li>
-        </ul>
-    </nav>
+</ul>
+</nav>
 
 <main style="padding: 20px; width: 80%; float: left; padding: 20px">
 
