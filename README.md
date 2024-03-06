@@ -6,30 +6,30 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 
-<body style="font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: lightblue; color: black;">
+<body style="font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: lightblue; color: black; border-style: dashed">
 
-<header style="background-color: #005f81; color: white; text-align: center; padding: 20px;">
+<header style="background-color: #005f81; color: white; text-align: center; padding: 20px; border-style: dashed">
         <h1>Nicole Braida, Ph.D.</h1>
         <h2>Postdoctoral Fellow and Lecturer at Johannes Gutenberg Universität Mainz</h2>
         <img src="https://film-medien.ftmk.uni-mainz.de/files/2018/11/Kolleg_6-214x300.jpg" style="width:200px;height:250px;display:block;margin-right:auto;margin-left:auto;padding:5px;border-style: dotted;">
 </header>
 
-  <nav style="background-color: #333; color: white; text-align: center; padding: 20px; width: 20%; float: left;">
+  <nav style="background-color: #333; color: white; text-align: center; padding: 20px; width: 20%; float: left; border-style: dashed">
         <h3>Navigation</h3>
-        <ul style="list-style-type: none; padding: 0;">
-            <li style="margin-bottom: 10px;"><a href="#education" style="color: white; text-decoration: none;">Education</a></li>
+        <ul style="list-style-type: none; padding: 0; border-style: dashed">
+            <li style="margin-bottom: 10px;"><a href="#education" style="color: white; text-decoration: none; border-style: dashed">Education</a></li>
             <li style="margin-bottom: 10px;"><a href="#projects" style="color: white; text-decoration: none;">Projects</a></li>
-            <li style="margin-bottom: 10px;"><a href="#experience" style="color: white; text-decoration: none;">Experience</a></li>
-            <li style="margin-bottom: 10px;"><a href="#teaching" style="color: white; text-decoration: none;">Teaching</a></li>
-            <li style="margin-bottom: 10px;"><a href="#publications" style="color: white; text-decoration: none;">Publications</a></li>
-            <li style="margin-bottom: 10px;"><a href="#abroad" style="color: white; text-decoration: none;">Experience Abroad</a></li>
-            <li style="margin-bottom: 10px;"><a href="#skills" style="color: white; text-decoration: none;">Skills</a></li>
+            <li style="margin-bottom: 10px;"><a href="#experience" style="color: white; text-decoration: none; border-style: dashed">Experience</a></li>
+            <li style="margin-bottom: 10px;"><a href="#teaching" style="color: white; text-decoration: none; border-style: dashed">Teaching</a></li>
+            <li style="margin-bottom: 10px;"><a href="#publications" style="color: white; text-decoration: none; border-style: dashed">Publications</a></li>
+            <li style="margin-bottom: 10px;"><a href="#abroad" style="color: white; text-decoration: none; border-style: dashed">Experience Abroad</a></li>
+            <li style="margin-bottom: 10px;"><a href="#skills" style="color: white; text-decoration: none; border-style: dashed">Skills</a></li>
         </ul>
     </nav>
 
    <main style="padding: 20px; width: 80%; float: left;">
 
-   <section id="education" style="margin-bottom: 20px;">
+   <section id="education" style="margin-bottom: 20px; border-style: dashed">
             <h3 style="color: #005f81;">EDUCATION</h3>
             <p><strong>2017</strong> - <em>Doctor of Philosophy</em> in Media Dramaturgy at Gutenberg-University of Mainz at Institute for Film, Theater and empirical Cultural studies. Candidate at Doctoral School "Configurations of Film" at Goethe University Frankfurt> Title of Dissertation: <em>Migrating through the Web. Interactive Practices about Migration</em></p>
             <p><strong>2011-2013</strong> <em> M.A.</em> in Film and Audiovisual Studies (international master program) from University of Udine (IT)<br>
@@ -37,13 +37,13 @@
             <p><strong>2005-2010</strong> <em>B.A.</em> in Archaeology from University of Padua (IT)</p>
         </section>
 
-   <section id="projects" style="margin-bottom: 20px;">
+   <section id="projects" style="margin-bottom: 20px; border-style: dashed">
             <h3 style="color: #005f81;">PYTHON DATA ANALYSIS PROJECTS ON SUPER8 (Selection)</h3>
             <p><strong>ANALYZING A DATASET FROM THE GERMAN DISTRIBUTOR COMPANY UFA:</strong> <a href="https://nicolebraida.github.io/Analysing%20and%20Visualizing%20UFA%20Film%20Dataset.html" style="color: #ff7f0e; text-decoration: none;">LINK</a><br>
                 <strong>ANALYZING THE DISTRIBUTION OF ITALIAN FILMS ON SUPER8 IN GERMANY IN 70s-80s:</strong> <a href="https://nicolebraida.github.io/Italo_film_Analysis" style="color: #ff7f0e; text-decoration: none;">LINK</a></p>
         </section>
 
-   <section id="experience" style="margin-bottom: 20px;">
+   <section id="experience" style="margin-bottom: 20px; border-style: dashed">
             <h3 style="color: #005f81;">PROFESSIONAL EXPERIENCE</h3>
             <p><strong> Apr. 2021 - ongoing :</strong> Gutenberg-University Mainz, Postdoctoral Research Fellow in Project DiCi-Hub (A Research Hub for Cinema Studies <br>
                 <strong> Sep. 2017 - Mar. 2021 :</strong> Gutenberg-University Mainz, Research Fellow <br>
@@ -55,7 +55,7 @@
             </p>
         </section>
         
-<section id="teaching" style="margin-bottom: 20px;">
+<section id="teaching" style="margin-bottom: 20px; border-style: dashed">
             <h3 style="color: #005f81;">TEACHING EXPERIENCE</h3>
             <p><strong>SS 2023/24:</strong> Università degli Studi di Udine - Undergraduate Seminar - Data Visualization<br>
             <strong>SS 2023/24:</strong> Università degli Studi di Udine - Undergraduate Seminar - Data Visualization<br>
@@ -74,7 +74,7 @@
             </p>
   </section>
 
- <section id="publications" style="margin-bottom: 20px;">
+ <section id="publications" style="margin-bottom: 20px; border-style: dashed">
             <h3 style="color: #005f81;">CONFERENCE TALKS (Selection)</h3>
             <ul>
              <li><strong>"Call for (Inter)Action: The Construction of Solidarity in Interactive Practices"</strong> Digital Cultures Conference 2018 - L&uuml;neburg</li>
@@ -87,7 +87,7 @@
             </ul>
         </section>
 
-   <section id="abroad" style="margin-bottom: 20px;">
+   <section id="abroad" style="margin-bottom: 20px; border-style: dashed">
             <h3 style="color: #005f81;">PUBLICATIONS</h3>
             <ul>
 <li>Braida N., (2022) <em>Migrating through the Web. Interactive Practices about Migration, Flight and Exile.</em> Bielefeld: Transcript.</li>
@@ -99,7 +99,7 @@
 <li>Braida, N. (2013) <em>Web Documentary. Documenting Reality in the Age of Post-Media</em>  [Master’s Thesis]  Supervisor: L.Quaresima </li></ul>
 </main>
 
-<section id="abroad" style="margin-bottom: 20px;">
+<section id="abroad" style="margin-bottom: 20px; border-style: dashed">
             <h3 style="color: #005f81;">EXPERIENCE ABROAD</h3> 
 <strong> Sept. 2019 - Oct. 2019 </strong> - Research Stay at Concordia University Montréal (CA) <br>
 <strong> Feb. 2013 - Sep. 2013 </strong> - Guest Student at Goethe University Frankfurt <br>
@@ -109,7 +109,7 @@
 <strong> Feb. 2008 - Sep. 2008 </strong> - Erasmus Semester in Vienna (AT) <br>
 </section>
 
-<section id="abroad" style="margin-bottom: 20px;">
+<section id="abroad" style="margin-bottom: 20px; border-style: dashed">
             <h3 style="color: #005f81;">SOFTWARE/LANGUAGE SKILLS</h3>
 
 <strong> Visualization software skills: </strong> - Tableau Public, DataWrapper, KeplerGL <br>
@@ -120,7 +120,7 @@
 </section>
 
 
-   <footer style="background-color: #005f81; color: white; text-align: center; padding: 20px; clear: both;">
+   <footer style="background-color: #005f81; color: white; text-align: center; padding: 20px; clear: both; border-style: dashed">
         <p>&copy; 2024 Nicole Braida</p>
     </footer>
 
