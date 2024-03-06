@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 
-<body style="font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: lightblue; color: black; border-style: dashed">
+<body style="font-family: Arial, sans-serif; margin: 0; padding: 10px; background-color: lightblue; color: black; border-style: dashed; ">
 
 <header style="background-color: #005f81; color: white; text-align: center; padding: 20px; border-style: dashed">
         <h1>Nicole Braida, Ph.D.</h1>
@@ -26,7 +26,7 @@
         </ul>
     </nav>
 
-   <main style="padding: 20px; width: 80%; float: center; padding: 20px">
+   <main style="padding: 20px; width: 80%; float: left; padding: 20px">
 
    <section id="education" style="margin-bottom: 20px; border-style: dashed">
             <h3 style="color: #005f81;">EDUCATION</h3>
