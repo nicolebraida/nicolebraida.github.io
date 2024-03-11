@@ -76,7 +76,14 @@
   <section id="publications" style="margin-bottom: 20px; padding: 10px; border-style: dashed">
             <h3 style="color: #005f81;">CONFERENCE TALKS (Selection)</h3>
             <ul>
-             <li><strong>"Call for (Inter)Action: The Construction of Solidarity in Interactive Practices"</strong> Digital Cultures Conference 2018 - L&uuml;neburg</li>
+<li><strong>“Super8’s Institutional and Non-institutionals Networks of Care”</strong> NECS 2023 -Oslo </li>
+<li><strong>“Teaching Small Gauge with Digital Methods”</strong> Doing Digital Film History 2022 - Marburg </li>                   
+<li><strong>“Teaching Digital Methods in Film Studies”</strong> NECS Workshop 2022- Bucarest </li>
+<li><strong>“Mapping Sandokan: The circulation of the italian TV series on Super8”</strong> Conference Rethinking Film History Through Global and Digital Approaches 2022 - Barcelona </li>
+<li><strong>"Understanding Interactive Practices through Migration”</strong> NECS Workshop 2021 - Palermo </li>        
+<li><strong>“The Humanitarian Impulse in Interactive Maps and Data Visualization”</strong> Visible Evidence 2021 - Frankfurt </li>                   
+<li><strong>“Call for (inter)action”</strong> Playback: Genealogies of Interactivity –Concordia University 2019 - Montrèal (CA) </li>
+<li><strong>"Call for (Inter)Action: The Construction of Solidarity in Interactive Practices"</strong> Digital Cultures Conference 2018 - L&uuml;neburg</li>
 <li><strong>"Get the Flow. Learning geopolitics through interactive maps"</strong> MAGIS Spring School 2018 -Gorizia </li>
 <li><strong>"Economy of Web-based Interactive Practices"</strong>-  GFM - Tagung 2017- Zug&auml;nge- Erlangen   </li>
 <li><strong>"What if I was a refugee? How game structures frame refugee issues"</strong> PRAGUE MEDIA POINT 2016   </li>
