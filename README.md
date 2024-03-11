@@ -96,6 +96,9 @@
   <section id="publications" style="margin-bottom: 20px; padding: 10px; border-style: dashed">
             <h3 style="color: #005f81;">PUBLICATIONS</h3>
             <ul>
+<li>Braida, N., Pirk F. (Forthcoming). “Teaching Small Gauge with Digital Methods”. In Dang, Olesen, Van der Heijden (eds.) <em>Doing Digital Film History: Concepts, Tools, Practices.</em> De Gruyter.</li>
+<li>Braida, N. (Forthcoming). „Finding Home“: Mediale Aneignungen von Flüchtlingsleben“ In A. Strohmaier and E. Linseisen (eds.) <em>Deine Kamera ist eine App. Über Medienverflechtungen des Applizierens und Approprierens.</em> Meson Press.</li>
+<li>Braida N., (2023) "Il mormorio dei femminicidi. Visualizzare i dati sulla violenza di genere". In L. Fales and V.Vacca (eds.)<em>Altri Spazi. Politiche e pratiche di risignificazione tra digitale e materiale.</em> Verona: Ombre Corte.</li>
 <li>Braida N., (2022) <em>Migrating through the Web. Interactive Practices about Migration, Flight and Exile.</em> Bielefeld: Transcript.</li>
 <li>Braida,N., Campregher-Paiva, I. and Diecke, J. (2022, February 2) "Was machen wir mit digitalen Tools, und was machen Sie mit uns?" In <em>OMS Blog. Zeitschrift für Medienwissenschaft</em></li>
 <li>Braida, N., Campregher-Paiva, I. and Diecke, J. (2021, October 1) "Call for Papers: Forschen, Lehren, Lernen mit digitalen Tools" In <em>OMS Blog. Zeitschrift für Medienwissenschaft</em></li>
