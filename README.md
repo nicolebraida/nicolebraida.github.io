@@ -8,7 +8,7 @@
 
 <header style="background-color: #005f81; color: white; text-align: center; padding: 20px; border-style: dashed">
         <h1>Nicole Braida, Ph.D.</h1>
-        <h2>Postdoctoral Fellow and Lecturer at Johannes Gutenberg Universität Mainz</h2>
+        <h2>Independent Scholar in Film and Media & Content Specialist for Museums and Cultural Heritage @IKON</h2>
         <img src="https://film-medien.ftmk.uni-mainz.de/files/2018/11/Kolleg_6-214x300.jpg" style="width:200px;height:250px;display:block;margin-right:auto;margin-left:auto;padding:5px;border-style: dotted;">
 </header>
 
