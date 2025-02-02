@@ -4,9 +4,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 
-<body style="font-family: Arial, sans-serif; margin: 0; padding: 10px; background-color: lightblue; color: black; border-style: dashed; ">
+<body style="font-family: 'Poppins', sans-serif; margin: 0; padding: 10px; background-color: linear-gradient(to right, #e3f2fd, #bbdefb); color: #333; border-style: dashed; ">
 
-<header style="background-color: #005f81; color: white; text-align: center; padding: 20px; border-style: dashed">
+<header style="background-color: #003f5c; color: white; text-align: center; padding: 20px; border-bottom: 5px solid #ff7f0e">
         <h1>Nicole Braida, Ph.D.</h1>
         <h2>Independent Scholar in Film and Media & Content Specialist for Museums and Cultural Heritage @IKON</h2>
         <img src="https://film-medien.ftmk.uni-mainz.de/files/2018/11/Kolleg_6-214x300.jpg" style="width:200px;height:250px;display:block;margin-right:auto;margin-left:auto;padding:5px;border-style: dotted;">
