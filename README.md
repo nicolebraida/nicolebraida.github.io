@@ -43,7 +43,8 @@
 
 <section id="professional" style="margin-bottom: 20px; padding: 10px; border-style: dashed">
             <h3 style="color: #005f81;">PROFESSIONAL EXPERIENCE</h3>
-            <p><strong> Apr. 2021 - ongoing :</strong> Gutenberg-University Mainz, Postdoctoral Research Fellow in Project DiCi-Hub (A Research Hub for Cinema Studies <br>
+            <p><strong> Sep. 2024 - ongoing :</strong> IKON Digital Farm, Content Specialist - historical Research & Content creation <br>
+                <strong> Apr. 2021 - Aug. 2024 :</strong> Gutenberg-University Mainz, Postdoctoral Research Fellow in Project DiCi-Hub (A Research Hub for Cinema Studies <br>
                 <strong> Sep. 2017 - Mar. 2021 :</strong> Gutenberg-University Mainz, Research Fellow <br>
                 <strong> Jun. 2016 - Jul. 2017 :</strong> Gutenberg-University Mainz, Graduate Assistant (Prof. Dr. Alexandra  Schneider)<br>
                 <strong> Feb. 2011 - 2017 :</strong> Mediacritica.it - Film and media critic                  <br>
@@ -56,7 +57,6 @@
  <section id="teaching" style="margin-bottom: 20px; padding: 10px; border-style: dashed">
             <h3 style="color: #005f81;">TEACHING EXPERIENCE</h3>
             <p><strong>SS 2023/24:</strong> Università degli Studi di Udine - Undergraduate Seminar - Data Visualization<br>
-            <strong>SS 2023/24:</strong> Università degli Studi di Udine - Undergraduate Seminar - Data Visualization<br>
   <strong>WS 2023/24:</strong> Gutenberg-University Mainz - Undergraduate Exercize (co-teaching with Frauke Pirk) - Exploring Super8: Data Analysis and Data Visalization<br>
   <strong>SS 2022/23:</strong> Università degli Studi di Udine - Undergraduate Seminar - Data Visualization<br>
   <strong>WS 2022/23:</strong> Gutenberg-University Mainz - Undergraduate Exercize (co-teaching with Frauke Pirk) - Film Data. Digital Approaches to Film Historiography<br>
@@ -74,11 +74,15 @@
    </section>
 
   <section id="publications" style="margin-bottom: 20px; padding: 10px; border-style: dashed">
-            <h3 style="color: #005f81;">CONFERENCE TALKS (Selection)</h3>
+            <h3 style="color: #005f81;">UNIVERSITY CONFERENCE TALKS (Selection)</h3>
             <ul>
+<li><strong>“Curating Super8’s reduction prints amateur collectors data”</strong> ‘Moving Forward, Looking Back’: Digital Transformation
+and Sustainable Archival Practices in Film Heritage 2025 - Viterbo </li>
+<li><strong>“Risorse e metodi di visualizzazione dati per il cinema e i media”</strong> Ricerche sulla network analysis e i media 2024 - Cagliari </li>                   
+<li><strong>“The humanitarian treatment of actuality in participatory data-driven practices of humanitarian mapping”</strong> NECS 2024- Izmir </li>
 <li><strong>“Super8’s Institutional and Non-institutionals Networks of Care”</strong> NECS 2023 -Oslo </li>
 <li><strong>“Teaching Small Gauge with Digital Methods”</strong> Doing Digital Film History 2022 - Marburg </li>                   
-<li><strong>“Teaching Digital Methods in Film Studies”</strong> NECS Workshop 2022- Bucarest </li>
+<li><strong>“Teaching Digital Methods in Film Studies”</strong> NECS Workshop 2022- Bucarest </li>                   
 <li><strong>“Mapping Sandokan: The circulation of the italian TV series on Super8”</strong> Conference Rethinking Film History Through Global and Digital Approaches 2022 - Barcelona </li>
 <li><strong>"Understanding Interactive Practices through Migration”</strong> NECS Workshop 2021 - Palermo </li>        
 <li><strong>“The Humanitarian Impulse in Interactive Maps and Data Visualization”</strong> Visible Evidence 2021 - Frankfurt </li>                   
@@ -96,8 +100,10 @@
   <section id="publications" style="margin-bottom: 20px; padding: 10px; border-style: dashed">
             <h3 style="color: #005f81;">PUBLICATIONS</h3>
             <ul>
-<li>Braida, N., Pirk F. (Forthcoming). “Teaching Small Gauge with Digital Methods”. In Dang, Olesen, Van der Heijden (eds.) <em>Doing Digital Film History: Concepts, Tools, Practices.</em> De Gruyter.</li>
-<li>Braida, N. (Forthcoming). „Finding Home“: Mediale Aneignungen von Flüchtlingsleben“ In A. Strohmaier and E. Linseisen (eds.) <em>Deine Kamera ist eine App. Über Medienverflechtungen des Applizierens und Approprierens.</em> Meson Press.</li>
+<li>Braida, N., (2025). “From the Small Screen to the Big Screen: The Super8's Distribution of Sandokan TV series”. In <em>Cinéma & Cie. Film and Media Studies Journal</em> Milano University Press.</li>
+<li>Braida, N., Pirk F. (2025). “Teaching Small Gauge with Digital Methods”. In Dang, Olesen, Van der Heijden (eds.) <em>Doing Digital Film History: Concepts, Tools, Practices.</em> De Gruyter.</li>
+<li>Braida, N., Pirk F. (2024). “Italo-Film: The Circulation of Italian Films on Super 8 in Germany in the ’70s and ’80s”. In <em>L'avventura. International Journal of Italian Film and Media Landscapes.</em> Il Mulino.</li>
+<li>Braida, N. (2024). „Finding Home“: Mediale Aneignungen von Flüchtlingsleben“ In A. Strohmaier and E. Linseisen (eds.) <em>Deine Kamera ist eine App. Über Medienverflechtungen des Applizierens und Approprierens.</em> Meson Press.</li>
 <li>Braida N., (2023) "Il mormorio dei femminicidi. Visualizzare i dati sulla violenza di genere". In L. Fales and V.Vacca (eds.)<em>Altri Spazi. Politiche e pratiche di risignificazione tra digitale e materiale.</em> Verona: Ombre Corte.</li>
 <li>Braida N., (2022) <em>Migrating through the Web. Interactive Practices about Migration, Flight and Exile.</em> Bielefeld: Transcript.</li>
 <li>Braida,N., Campregher-Paiva, I. and Diecke, J. (2022, February 2) "Was machen wir mit digitalen Tools, und was machen Sie mit uns?" In <em>OMS Blog. Zeitschrift für Medienwissenschaft</em></li>
