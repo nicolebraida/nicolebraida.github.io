@@ -1,0 +1,135 @@
+/* ===== General Styles ===== */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #F8F9FA;
+  color: #0D1B2A;
+  line-height: 1.6;
+}
+
+/* ===== Header ===== */
+header {
+  background-color: #0D1B2A;
+  color: #F8F9FA;
+  text-align: center;
+  padding: 2rem 1rem;
+  border-bottom: 4px solid #FCA311;
+}
+
+header h1 {
+  font-size: 2rem;
+  margin-bottom: 0.3rem;
+}
+
+header h2 {
+  font-size: 1rem;
+  font-weight: 400;
+  color: #ADB5BD;
+}
+
+header .profile-pic {
+  width: 180px;
+  height: 230px;
+  margin: 1rem auto;
+  display: block;
+  border-radius: 12px;
+  border: 2px solid #FCA311;
+  object-fit: cover;
+}
+
+/* ===== Navigation ===== */
+nav {
+  background-color: #0D1B2A;
+  color: #F8F9FA;
+  padding: 1rem;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+nav ul li a {
+  display: block;
+  padding: 0.75rem 1rem;
+  text-decoration: none;
+  color: #F8F9FA;
+  border-radius: 8px;
+  transition: background 0.3s;
+}
+
+nav ul li a:hover {
+  background-color: #FCA311;
+  color: #0D1B2A;
+}
+
+/* ===== Main Content ===== */
+main {
+  padding: 2rem;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+section {
+  background-color: #FFFFFF;
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+}
+
+section h3 {
+  color: #0D1B2A;
+  margin-bottom: 1rem;
+}
+
+/* ===== Footer ===== */
+footer {
+  background-color: #0D1B2A;
+  color: #F8F9FA;
+  text-align: center;
+  padding: 1.5rem;
+  margin-top: 2rem;
+}
+
+/* ===== Responsive Layout ===== */
+@media screen and (min-width: 768px) {
+  body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+
+  nav {
+    width: 220px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    padding-top: 2rem;
+  }
+
+  main {
+    margin-left: 240px;
+  }
+
+  header {
+    margin-left: 240px;
+  }
+
+  footer {
+    margin-left: 240px;
+  }
+}
+
+/* ===== Utility ===== */
+a {
+  transition: all 0.2s ease-in-out;
+}
