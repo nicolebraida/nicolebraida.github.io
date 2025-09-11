@@ -257,3 +257,24 @@ a {
     width: 30%;  /* three cards per row on extra large screens */
   }
 }
+/* Back button */
+.back-button {
+  margin-top: 2rem;
+  text-align: center;
+}
+
+.back-button a {
+  display: inline-block;
+  background-color: #003f5c;
+  color: #fff;
+  padding: 0.6rem 1.2rem;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background-color 0.2s, transform 0.2s;
+}
+
+.back-button a:hover {
+  background-color: #2f4b7c;
+  transform: translateY(-3px);
+}
