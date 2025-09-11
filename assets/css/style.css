@@ -211,3 +211,49 @@ a {
   color: #FCA311;             /* Optional: consistent link color */
   text-decoration: underline; /* Optional: underline for links */
 }
+/* Professional Experience Cards */
+.experience-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.experience-card {
+  display: block;
+  background-color: #FFFFFF;
+  border: 1px solid #ccc;
+  border-radius: 12px;
+  padding: 1rem;
+  text-decoration: none;
+  color: #0D1B2A;
+  box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+  transition: transform 0.2s, box-shadow 0.2s;
+  width: 100%;
+}
+
+.experience-card h4 {
+  margin-bottom: 0.5rem;
+  font-size: 1.1rem;
+  color: #003f5c;
+}
+
+.experience-card p {
+  font-size: 0.95rem;
+}
+
+.experience-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 15px rgba(0,0,0,0.15);
+}
+
+@media (min-width: 768px) {
+  .experience-card {
+    width: 48%;  /* two cards per row on larger screens */
+  }
+}
+
+@media (min-width: 1200px) {
+  .experience-card {
+    width: 30%;  /* three cards per row on extra large screens */
+  }
+}
