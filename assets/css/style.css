@@ -203,3 +203,11 @@ a {
 #publications a:hover {
   color: #FCA311; /* orange hover effect */
 }
+/* ===== Global Link Wrapping ===== */
+a {
+  word-wrap: break-word;      /* Older browsers */
+  overflow-wrap: anywhere;    /* Modern browsers, breaks anywhere if needed */
+  word-break: break-word;     /* Ensures long words/URLs break */
+  color: #FCA311;             /* Optional: consistent link color */
+  text-decoration: underline; /* Optional: underline for links */
+}
