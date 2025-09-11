@@ -192,6 +192,12 @@ a {
   text-decoration: none;
   font-weight: 500;
   transition: color 0.3s;
+  
+  /* wrap long URLs */
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  display: inline-block; /* helps some browsers wrap long URLs */
+  max-width: 100%; /* prevents overflow */
 }
 
 #publications a:hover {
