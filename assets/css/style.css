@@ -7,18 +7,18 @@
 
 body {
   font-family: 'Poppins', sans-serif;
-  background-color: #F8F9FA;
-  color: #0D1B2A;
+  background-color: #F8F9FA; /* light grey page background */
+  color: #0D1B2A; /* dark blue text */
   line-height: 1.6;
 }
 
 /* ===== Header ===== */
 header {
-  background-color: #0D1B2A;
+  background-color: #0D1B2A; /* deep blue */
   color: #F8F9FA;
   text-align: center;
   padding: 2rem 1rem;
-  border-bottom: 4px solid #FCA311;
+  border-bottom: 4px solid #FCA311; /* orange accent */
 }
 
 header h1 {
@@ -29,7 +29,7 @@ header h1 {
 header h2 {
   font-size: 1rem;
   font-weight: 400;
-  color: #ADB5BD;
+  color: #ADB5BD; /* light grey subtitle */
 }
 
 header .profile-pic {
@@ -38,7 +38,7 @@ header .profile-pic {
   margin: 1rem auto;
   display: block;
   border-radius: 12px;
-  border: 2px solid #FCA311;
+  border: 2px solid #FCA311; /* orange accent */
   object-fit: cover;
 }
 
@@ -66,7 +66,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-  background-color: #FCA311;
+  background-color: #FCA311; /* orange accent on hover */
   color: #0D1B2A;
 }
 
@@ -134,41 +134,46 @@ a {
   transition: all 0.2s ease-in-out;
 }
 
-/* --- Project cards --- */
+/* ===== Project Cards ===== */
 .project-card {
-  border: 1px solid #ccc;
-  border-radius: 12px;
-  padding: 15px;
+  border: none;
+  border-radius: 16px;
+  padding: 20px;
   margin: 15px 0;
-  box-shadow: 0 3px 8px rgba(0,0,0,0.1);
-  transition: transform 0.2s;
-  background-color: #f9f9f9;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+  transition: transform 0.3s, box-shadow 0.3s;
+  background-color: #F8F9FA; /* light grey card background */
   text-align: center;
 }
 
 .project-card img {
   width: 100%;
-  max-width: 300px;
+  max-width: 280px;
   display: block;
-  margin: 0 auto 10px auto;
-  border-radius: 8px;
+  margin: 0 auto 15px auto;
+  border-radius: 12px;
+  border: 2px solid #0D1B2A; /* deep blue border */
 }
 
 .project-card:hover {
-  transform: translateY(-5px);
+  transform: translateY(-7px);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+  border: 2px solid #FCA311; /* orange accent on hover */
 }
 
 .project-card h4 {
-  color: #003f5c;
-  margin-bottom: 8px;
+  color: #0D1B2A; /* deep blue */
+  font-size: 1.2rem;
+  margin-bottom: 10px;
 }
 
 .project-card p {
   font-size: 0.95rem;
+  color: #333333; /* dark grey */
   line-height: 1.5;
 }
 
-/* Responsive layout */
+/* Responsive project card layout */
 @media (min-width: 768px) {
   .project-card {
     display: inline-block;
