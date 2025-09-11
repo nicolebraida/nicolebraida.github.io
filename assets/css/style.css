@@ -186,3 +186,14 @@ a {
     margin-right: 0;
   }
 }
+/* ===== Publications Links ===== */
+#publications a {
+  color: #0D1B2A; /* deep blue */
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.3s;
+}
+
+#publications a:hover {
+  color: #FCA311; /* orange hover effect */
+}
