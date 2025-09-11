@@ -278,3 +278,28 @@ a {
   background-color: #2f4b7c;
   transform: translateY(-3px);
 }
+/* ===== Education Cards ===== */
+.edu-card {
+  background-color: #ffffff;
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  transition: transform 0.2s;
+}
+
+.edu-card:hover {
+  transform: translateY(-5px);
+}
+
+.edu-card h4 {
+  color: #0D1B2A;
+  margin-bottom: 0.5rem;
+  font-size: 1.2rem;
+}
+
+.edu-meta {
+  font-size: 0.95rem;
+  color: #6c757d;
+  margin-bottom: 0.5rem;
+}
