@@ -71,10 +71,23 @@ nav ul li a:hover {
 }
 
 /* ===== Main Content ===== */
+
+
 main {
-  padding: 2rem;
-  max-width: 1000px;
-  margin: 0 auto;
+  max-width: 900px;    /* limits line length for readability */
+  margin: 0 auto;      /* centers the block horizontally */
+  padding: 1rem;
+}
+
+/* Optional: give sections some breathing space */
+main section {
+  margin-bottom: 2rem;
+}
+
+/* Ensure text inside sections is justified nicely */
+main section p, main section li {
+  text-align: justify;
+  word-wrap: break-word; /* prevents long URLs from overflowing */
 }
 
 section {
@@ -398,20 +411,4 @@ a {
   transition: color 0.3s ease-in-out;
 }
 
-/* ===== Center main content ===== */
-main {
-  max-width: 900px;    /* limits line length for readability */
-  margin: 0 auto;      /* centers the block horizontally */
-  padding: 1rem;
-}
 
-/* Optional: give sections some breathing space */
-main section {
-  margin-bottom: 2rem;
-}
-
-/* Ensure text inside sections is justified nicely */
-main section p, main section li {
-  text-align: justify;
-  word-wrap: break-word; /* prevents long URLs from overflowing */
-}
