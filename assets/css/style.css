@@ -303,3 +303,31 @@ a {
   color: #6c757d;
   margin-bottom: 0.5rem;
 }
+/* ===== Social Icons ===== */
+.social-icons {
+  margin-top: 1rem;
+}
+
+.social-icons a {
+  text-decoration: none;
+  margin-right: 15px;
+  font-size: 1.8rem;
+  color: #0D1B2A; /* main text color */
+  transition: color 0.3s;
+}
+
+.social-icons a:hover {
+  color: #0077b5; /* changes color on hover */
+}
+
+.social-icons .fa-instagram:hover {
+  color: #E1306C; /* Instagram pink */
+}
+
+.social-icons .fa-linkedin:hover {
+  color: #0077b5; /* LinkedIn blue */
+}
+
+.social-icons .fa-graduation-cap:hover {
+  color: #2E8B57; /* Academia green */
+}
