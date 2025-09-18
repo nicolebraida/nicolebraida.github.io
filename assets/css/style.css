@@ -14,11 +14,11 @@ body {
 
 /* ===== Header ===== */
 header {
-  background-color: #0D1B2A; /* deep blue */
-  color: #F8F9FA;
+  background-color: #4A90E2; /* lighter, bright blue */
+  color: #FFFFFF; /* text stays white for contrast */
   text-align: center;
   padding: 2rem 1rem;
-  border-bottom: 4px solid #FCA311; /* orange accent */
+  border-bottom: 4px solid #FCA311; /* keep orange accent */
 }
 
 header h1 {
@@ -29,7 +29,7 @@ header h1 {
 header h2 {
   font-size: 1rem;
   font-weight: 400;
-  color: #ADB5BD; /* light grey subtitle */
+  color: #E0E0E0; /* lighter subtitle color to match header */
 }
 
 header .profile-pic {
